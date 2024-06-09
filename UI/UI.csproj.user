@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Admin\frmAdminAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\frmAdminCoupon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\frmAdminCourseSection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\frmAdminDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\frmAdminDetailCourse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\frmAdminHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Course\CourseByLecturer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Course\frmAddVideo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Course\frmAssignmentDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Course\frmCourseDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Course\frmCreateAssignment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Course\frmCreateQuestion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Course\frmCreateSection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Course\frmCreateTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Course\frmUploadFile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forum\AllForumsTab.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forum\frmForum.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Learner\frmCertificate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Learner\frmCompleted.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Learner\frmInProgress.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Learner\frmLearnerDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Learner\frmLearnerHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Learner\frmMyLearning.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forum\ForumItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forum\frmCreateForum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forum\frmEditForum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forum\frmForumDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmCart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmForgotPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmSignUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Course\CourseTypeList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Lecturer\frmLecCourseOverView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Lecturer\frmLecturerDashBoard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Lecturer\frmViewProfile.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Post\frmCreatePost.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Post\frmPostDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Post\Post.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\Assignment.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\Avatar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UserControls\Certificate.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\ChoiceOfQuestion.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Post\ReplyUC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\Coupon.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Course\CourseTypeCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\CourseContent.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\File.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\ItemInCart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\Question.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\QuestionListItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\SectionContent.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\Test.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,15 @@
+D:\HCMUTE\Year3\HK1_2023-2024\CNPM\Project\ver2.22.11\QLTalemy\LMSManagement\BLL\bin\Debug\net6.0\BLL.deps.json
+D:\HCMUTE\Year3\HK1_2023-2024\CNPM\Project\ver2.22.11\QLTalemy\LMSManagement\BLL\bin\Debug\net6.0\BLL.dll
+D:\HCMUTE\Year3\HK1_2023-2024\CNPM\Project\ver2.22.11\QLTalemy\LMSManagement\BLL\bin\Debug\net6.0\BLL.pdb
+D:\HCMUTE\Year3\HK1_2023-2024\CNPM\Project\ver2.22.11\QLTalemy\LMSManagement\BLL\bin\Debug\net6.0\DAL.dll
+D:\HCMUTE\Year3\HK1_2023-2024\CNPM\Project\ver2.22.11\QLTalemy\LMSManagement\BLL\bin\Debug\net6.0\DAL.pdb
+D:\HCMUTE\Year3\HK1_2023-2024\CNPM\Project\ver2.22.11\QLTalemy\LMSManagement\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+D:\HCMUTE\Year3\HK1_2023-2024\CNPM\Project\ver2.22.11\QLTalemy\LMSManagement\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\HCMUTE\Year3\HK1_2023-2024\CNPM\Project\ver2.22.11\QLTalemy\LMSManagement\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+D:\HCMUTE\Year3\HK1_2023-2024\CNPM\Project\ver2.22.11\QLTalemy\LMSManagement\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+D:\HCMUTE\Year3\HK1_2023-2024\CNPM\Project\ver2.22.11\QLTalemy\LMSManagement\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+D:\HCMUTE\Year3\HK1_2023-2024\CNPM\Project\ver2.22.11\QLTalemy\LMSManagement\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+D:\HCMUTE\Year3\HK1_2023-2024\CNPM\Project\ver2.22.11\QLTalemy\LMSManagement\BLL\obj\Debug\net6.0\BLL.dll
+D:\HCMUTE\Year3\HK1_2023-2024\CNPM\Project\ver2.22.11\QLTalemy\LMSManagement\BLL\obj\Debug\net6.0\refint\BLL.dll
+D:\HCMUTE\Year3\HK1_2023-2024\CNPM\Project\ver2.22.11\QLTalemy\LMSManagement\BLL\obj\Debug\net6.0\BLL.pdb
+D:\HCMUTE\Year3\HK1_2023-2024\CNPM\Project\ver2.22.11\QLTalemy\LMSManagement\BLL\obj\Debug\net6.0\ref\BLL.dll

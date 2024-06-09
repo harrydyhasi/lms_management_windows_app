@@ -1,0 +1,12 @@
+D:\HCMUTE\Year3\HK1_2023-2024\CNPM\Project\ver2.22.11\QLTalemy\LMSManagement\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+D:\HCMUTE\Year3\HK1_2023-2024\CNPM\Project\ver2.22.11\QLTalemy\LMSManagement\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\HCMUTE\Year3\HK1_2023-2024\CNPM\Project\ver2.22.11\QLTalemy\LMSManagement\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+D:\HCMUTE\Year3\HK1_2023-2024\CNPM\Project\ver2.22.11\QLTalemy\LMSManagement\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+D:\HCMUTE\Year3\HK1_2023-2024\CNPM\Project\ver2.22.11\QLTalemy\LMSManagement\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\HCMUTE\Year3\HK1_2023-2024\CNPM\Project\ver2.22.11\QLTalemy\LMSManagement\DAL\bin\Debug\net6.0\DAL.deps.json
+D:\HCMUTE\Year3\HK1_2023-2024\CNPM\Project\ver2.22.11\QLTalemy\LMSManagement\DAL\bin\Debug\net6.0\DAL.dll
+D:\HCMUTE\Year3\HK1_2023-2024\CNPM\Project\ver2.22.11\QLTalemy\LMSManagement\DAL\bin\Debug\net6.0\DAL.pdb
+D:\HCMUTE\Year3\HK1_2023-2024\CNPM\Project\ver2.22.11\QLTalemy\LMSManagement\DAL\obj\Debug\net6.0\DAL.dll
+D:\HCMUTE\Year3\HK1_2023-2024\CNPM\Project\ver2.22.11\QLTalemy\LMSManagement\DAL\obj\Debug\net6.0\refint\DAL.dll
+D:\HCMUTE\Year3\HK1_2023-2024\CNPM\Project\ver2.22.11\QLTalemy\LMSManagement\DAL\obj\Debug\net6.0\DAL.pdb
+D:\HCMUTE\Year3\HK1_2023-2024\CNPM\Project\ver2.22.11\QLTalemy\LMSManagement\DAL\obj\Debug\net6.0\ref\DAL.dll

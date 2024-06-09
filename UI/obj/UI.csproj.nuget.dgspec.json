@@ -1,0 +1,196 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\HCMUTE\\Year3\\HK1_2023-2024\\CNPM\\Project\\ver2.22.11\\QLTalemy\\LMSManagement\\UI\\UI.csproj": {}
+  },
+  "projects": {
+    "D:\\HCMUTE\\Year3\\HK1_2023-2024\\CNPM\\Project\\ver2.22.11\\QLTalemy\\LMSManagement\\BLL\\BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\HCMUTE\\Year3\\HK1_2023-2024\\CNPM\\Project\\ver2.22.11\\QLTalemy\\LMSManagement\\BLL\\BLL.csproj",
+        "projectName": "BLL",
+        "projectPath": "D:\\HCMUTE\\Year3\\HK1_2023-2024\\CNPM\\Project\\ver2.22.11\\QLTalemy\\LMSManagement\\BLL\\BLL.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\HCMUTE\\Year3\\HK1_2023-2024\\CNPM\\Project\\ver2.22.11\\QLTalemy\\LMSManagement\\BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\HCMUTE\\Year3\\HK1_2023-2024\\CNPM\\Project\\ver2.22.11\\QLTalemy\\LMSManagement\\DAL\\DAL.csproj": {
+                "projectPath": "D:\\HCMUTE\\Year3\\HK1_2023-2024\\CNPM\\Project\\ver2.22.11\\QLTalemy\\LMSManagement\\DAL\\DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\HCMUTE\\Year3\\HK1_2023-2024\\CNPM\\Project\\ver2.22.11\\QLTalemy\\LMSManagement\\DAL\\DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\HCMUTE\\Year3\\HK1_2023-2024\\CNPM\\Project\\ver2.22.11\\QLTalemy\\LMSManagement\\DAL\\DAL.csproj",
+        "projectName": "DAL",
+        "projectPath": "D:\\HCMUTE\\Year3\\HK1_2023-2024\\CNPM\\Project\\ver2.22.11\\QLTalemy\\LMSManagement\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\HCMUTE\\Year3\\HK1_2023-2024\\CNPM\\Project\\ver2.22.11\\QLTalemy\\LMSManagement\\DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\HCMUTE\\Year3\\HK1_2023-2024\\CNPM\\Project\\ver2.22.11\\QLTalemy\\LMSManagement\\UI\\UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\HCMUTE\\Year3\\HK1_2023-2024\\CNPM\\Project\\ver2.22.11\\QLTalemy\\LMSManagement\\UI\\UI.csproj",
+        "projectName": "UI",
+        "projectPath": "D:\\HCMUTE\\Year3\\HK1_2023-2024\\CNPM\\Project\\ver2.22.11\\QLTalemy\\LMSManagement\\UI\\UI.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\HCMUTE\\Year3\\HK1_2023-2024\\CNPM\\Project\\ver2.22.11\\QLTalemy\\LMSManagement\\UI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "D:\\HCMUTE\\Year3\\HK1_2023-2024\\CNPM\\Project\\ver2.22.11\\QLTalemy\\LMSManagement\\BLL\\BLL.csproj": {
+                "projectPath": "D:\\HCMUTE\\Year3\\HK1_2023-2024\\CNPM\\Project\\ver2.22.11\\QLTalemy\\LMSManagement\\BLL\\BLL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "Siticone.Desktop.UI": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
